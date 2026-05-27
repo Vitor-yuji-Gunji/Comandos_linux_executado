@@ -83,7 +83,7 @@ Este repositório foi criado como parte da Atividade Prática: Nossa Primeira Wi
 <img width="665" height="489" alt="image" src="https://github.com/user-attachments/assets/5e423e73-6865-4180-a7b8-25e597d52782" />
 
 ## 26.history
-<img width="674" height="481" alt="image" src="https://github.com/user-attachments/assets/94d23906-d391-43bf-89d5-80c5f2f0f7d6" />
+<img width="658" height="493" alt="image" src="https://github.com/user-attachments/assets/96dae490-c23f-4d8c-8582-c899260e8568" />
 
 ## 27.apt
 <img width="637" height="393" alt="image" src="https://github.com/user-attachments/assets/9fc011fd-a471-48bd-89c6-be7016816c5f" />
